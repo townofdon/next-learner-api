@@ -1,24 +1,37 @@
-# README
+# Next Learner - API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the back-end for an integrated school and classroom management app.
 
-Things you may want to cover:
+### Ruby version
 
-* Ruby version
+```
+2.6.3
+```
 
-* System dependencies
+### System dependencies
 
-* Configuration
+nil
 
-* Database creation
+### Configuration
 
-* Database initialization
+TBD
 
-* How to run the test suite
+### Database creation
 
-* Services (job queues, cache servers, search engines, etc.)
+TBD
 
-* Deployment instructions
+### Database initialization
 
-* ...
+TBD
+
+### How to run the test suite
+
+TBD
+
+### Services (job queues, cache servers, search engines, etc.)
+
+TBD
+
+### Deployment instructions
+
+TBD
